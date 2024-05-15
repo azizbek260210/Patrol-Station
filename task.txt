@@ -1,0 +1,4 @@
+15.05.2024
+Zapravka dastur loyihasi 
+1) MODEL yozish (majburiy) 
+2) API FULL (ixtiyoriy)
